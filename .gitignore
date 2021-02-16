@@ -1,0 +1,8 @@
+_archive
+*html
+_archive/*
+*_files/
+*_files/*
+.Rproj.user/
+GWASMA*
+1905_metaAnalysis/GWASMA*
